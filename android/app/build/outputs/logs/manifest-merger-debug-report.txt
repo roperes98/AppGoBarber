@@ -1,0 +1,324 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [com.facebook.flipper:flipper:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/10af20f1786fea8f8cd968486a10d09d/flipper-0.50.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/7c41dcffbec937aac1ae67bcbd8e9671/flipper-network-plugin-0.50.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/304915cd1e662c2f2e98c74c34538b81/flipper-fresco-plugin-0.50.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_async-storage] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-reanimated] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c9f1162ee757db91fdf36ea565adf077/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d4b22b6268f5536ae986907b6ca74808/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4aa21890489cb5c403a2ed4d5d3c19f2/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/50d4ae71d894d0752a64ed6153091ebf/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/f611eacb9293914ae6385cc983660937/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b0434fac7c82d5e3c46671b21ee3e22f/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/9df708c9a66a2f3045e1d649b17c64e1/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/aa5e514067209b8e03b2d921f9c5eb55/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/981d7226eee0cca6fce13fcc8581f992/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/1f427f0a3be293f1997e10739f051727/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/232ad15b007715fb35c878ff0b736a5e/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/55ca59a2e58b488a4894157d12ccd07e/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d0e2b03909c8932268de2c011250f4d3/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/70ef618645834947830f1718fc543f74/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c4b33157d51672484f7d6410b26745e5/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/bee7079fb35f2219808e9598e90e763e/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/e9d095ccf4f39c0b2d70da7c5d0e1be2/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/10af20f1786fea8f8cd968486a10d09d/flipper-0.50.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/10af20f1786fea8f8cd968486a10d09d/flipper-0.50.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [:react-native-community_datetimepicker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c9f1162ee757db91fdf36ea565adf077/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c9f1162ee757db91fdf36ea565adf077/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c4b33157d51672484f7d6410b26745e5/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c4b33157d51672484f7d6410b26745e5/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:10:7-39
+	tools:ignore
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:12:7-52
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:12:7-52
+	tools:targetApi
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.appgobarber.MainActivity
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:19:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:18:9-86
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml:26:17-81
+uses-sdk
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/10af20f1786fea8f8cd968486a10d09d/flipper-0.50.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/10af20f1786fea8f8cd968486a10d09d/flipper-0.50.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/7c41dcffbec937aac1ae67bcbd8e9671/flipper-network-plugin-0.50.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/7c41dcffbec937aac1ae67bcbd8e9671/flipper-network-plugin-0.50.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/304915cd1e662c2f2e98c74c34538b81/flipper-fresco-plugin-0.50.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/304915cd1e662c2f2e98c74c34538b81/flipper-fresco-plugin-0.50.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_async-storage] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c9f1162ee757db91fdf36ea565adf077/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c9f1162ee757db91fdf36ea565adf077/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d4b22b6268f5536ae986907b6ca74808/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d4b22b6268f5536ae986907b6ca74808/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4aa21890489cb5c403a2ed4d5d3c19f2/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4aa21890489cb5c403a2ed4d5d3c19f2/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/50d4ae71d894d0752a64ed6153091ebf/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/50d4ae71d894d0752a64ed6153091ebf/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/f611eacb9293914ae6385cc983660937/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/f611eacb9293914ae6385cc983660937/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b0434fac7c82d5e3c46671b21ee3e22f/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b0434fac7c82d5e3c46671b21ee3e22f/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/9df708c9a66a2f3045e1d649b17c64e1/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/9df708c9a66a2f3045e1d649b17c64e1/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/aa5e514067209b8e03b2d921f9c5eb55/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/aa5e514067209b8e03b2d921f9c5eb55/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/981d7226eee0cca6fce13fcc8581f992/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/981d7226eee0cca6fce13fcc8581f992/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/1f427f0a3be293f1997e10739f051727/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/1f427f0a3be293f1997e10739f051727/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/232ad15b007715fb35c878ff0b736a5e/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/232ad15b007715fb35c878ff0b736a5e/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/55ca59a2e58b488a4894157d12ccd07e/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/55ca59a2e58b488a4894157d12ccd07e/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d0e2b03909c8932268de2c011250f4d3/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d0e2b03909c8932268de2c011250f4d3/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/70ef618645834947830f1718fc543f74/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/70ef618645834947830f1718fc543f74/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c4b33157d51672484f7d6410b26745e5/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/c4b33157d51672484f7d6410b26745e5/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/7b4521e09033db39989053c4a0984cc2/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/33fa28bb10cd4d05c9c7b76910e2f1d7/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/57896e3f8d3af1ea30640dfb96021293/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/420bad76d144494602cd19d31fe9bd87/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/90a42a2ce697149cad235e929844c219/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/24d6d583c434259890735095825ff497/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/a25b01144be0941df6bba7293d8c0f17/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/411bdbedc35f51d8e6b1c352c69abc9b/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/9aab56159b5d892e0145587101b1f3a4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/97914c6c2bf3a10c0dbc0cbbac018fe9/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/d3986420b69bbcda2a26da93e8786bb5/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/b9668bd4c5473f0298eda6562aec7b99/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/596fc679c0cd5d4e81c0bb73a34a2445/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/bee7079fb35f2219808e9598e90e763e/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/bee7079fb35f2219808e9598e90e763e/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/e9d095ccf4f39c0b2d70da7c5d0e1be2/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/e9d095ccf4f39c0b2d70da7c5d0e1be2/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/10af20f1786fea8f8cd968486a10d09d/flipper-0.50.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.50.0] /Users/rodrigoperes/.gradle/caches/transforms-2/files-2.1/10af20f1786fea8f8cd968486a10d09d/flipper-0.50.0/AndroidManifest.xml:16:22-73
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/rodrigoperes/Estudos/Bootcamp/GoBarber-App/App/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
